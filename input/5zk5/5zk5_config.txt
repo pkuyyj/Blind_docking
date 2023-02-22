@@ -1,0 +1,11 @@
+receptor = data/5zk5/5zk5_ligand.pdbqt
+ligand = data/5zk5/5zk5_protein.pdbqt
+center_x = 41.571523076923086
+center_y = 72.54226923076916
+center_z = 79.29283846153848
+size_x = 24.040953846153823
+size_y = 16.416538461538323
+size_z = 18.945676923076974
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

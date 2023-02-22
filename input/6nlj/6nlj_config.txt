@@ -1,0 +1,11 @@
+receptor = data/6nlj/6nlj_ligand.pdbqt
+ligand = data/6nlj/6nlj_protein.pdbqt
+center_x = -1.7138717948717934
+center_y = 89.82083119658134
+center_z = -37.38939957264957
+size_x = 28.592256410256415
+size_y = 42.04766239316268
+size_z = 71.64079914529914
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

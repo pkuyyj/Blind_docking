@@ -1,0 +1,11 @@
+receptor = data/5ze6/5ze6_ligand.pdbqt
+ligand = data/5ze6/5ze6_protein.pdbqt
+center_x = 15.410928927680803
+center_y = 6.079295511221952
+center_z = 48.61720074812957
+size_x = 27.354142144638395
+size_y = 35.674591022443906
+size_z = 41.28959850374086
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

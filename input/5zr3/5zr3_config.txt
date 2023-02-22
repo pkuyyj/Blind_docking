@@ -1,0 +1,11 @@
+receptor = data/5zr3/5zr3_ligand.pdbqt
+ligand = data/5zr3/5zr3_protein.pdbqt
+center_x = 34.66460906040272
+center_y = 20.41805704697986
+center_z = 10.04319463087247
+size_x = 32.730781879194566
+size_y = 24.837885906040285
+size_z = 21.91361073825506
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

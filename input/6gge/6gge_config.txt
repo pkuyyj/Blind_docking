@@ -1,0 +1,11 @@
+receptor = data/6gge/6gge_ligand.pdbqt
+ligand = data/6gge/6gge_protein.pdbqt
+center_x = 99.31622314049586
+center_y = 75.4191570247934
+center_z = -31.49628099173554
+size_x = 12.959553719008284
+size_y = 14.24968595041318
+size_z = 14.723438016528917
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

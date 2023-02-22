@@ -1,0 +1,11 @@
+receptor = data/6hou/6hou_ligand.pdbqt
+ligand = data/6hou/6hou_protein.pdbqt
+center_x = -1.7014420289855072
+center_y = 0.1400144927536224
+center_z = -11.650775362318845
+size_x = 17.097115942028985
+size_y = 28.166028985507243
+size_z = 18.901550724637687
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

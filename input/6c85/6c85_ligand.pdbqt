@@ -1,0 +1,16 @@
+REMARK  Name = 6c85_ligand
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      45.380  49.379 465.291  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1      45.030  49.905 464.291  0.00  0.00    +0.000 C 
+ATOM      3  C   UNL     1      44.786  51.414 464.269  0.00  0.00    +0.000 C 
+ATOM      4  C   UNL     1      44.805  49.092 463.027  0.00  0.00    +0.000 C 
+ATOM      5  C   UNL     1      44.347  49.806 461.759  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      44.097  51.320 461.726  0.00  0.00    +0.000 C 
+ATOM      7  O   UNL     1      43.745  51.830 460.685  0.00  0.00    +0.000 OA
+ATOM      8  C   UNL     1      44.311  52.137 463.016  0.00  0.00    +0.000 C 
+ENDROOT
+TORSDOF 0

@@ -1,0 +1,11 @@
+receptor = data/6p8x/6p8x_ligand.pdbqt
+ligand = data/6p8x/6p8x_protein.pdbqt
+center_x = -3.1209
+center_y = 66.7457
+center_z = -25.1062
+size_x = 22
+size_y = 22
+size_z = 22
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

@@ -1,0 +1,9 @@
+center_x = 17.552492857142852
+center_y = 9.74347142857143
+center_z = 53.17010000000001
+size_x = 22
+size_y = 22
+size_z = 22
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

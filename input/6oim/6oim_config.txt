@@ -1,0 +1,11 @@
+receptor = data/6oim/6oim_ligand.pdbqt
+ligand = data/6oim/6oim_protein.pdbqt
+center_x = -0.0900795918367343
+center_y = -0.6710020408163271
+center_z = 2.5555428571428584
+size_x = 32.55815918367347
+size_y = 30.569995918367344
+size_z = 34.10691428571429
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

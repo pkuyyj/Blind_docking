@@ -1,0 +1,11 @@
+receptor = data/6d3x/6d3x_ligand.pdbqt
+ligand = data/6d3x/6d3x_protein.pdbqt
+center_x = -11.96771641791045
+center_y = -7.39822388059702
+center_z = 34.61535074626867
+size_x = 14.1225671641791
+size_y = 20.547552238805963
+size_z = 16.543298507462666
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

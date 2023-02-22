@@ -1,0 +1,11 @@
+receptor = data/6uvy/6uvy_ligand.pdbqt
+ligand = data/6uvy/6uvy_protein.pdbqt
+center_x = 41.11725704225353
+center_y = 53.951359154929605
+center_z = 91.45825
+size_x = 16.14451408450705
+size_y = 21.318718309859207
+size_z = 22.00349999999997
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

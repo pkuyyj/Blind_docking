@@ -1,0 +1,11 @@
+receptor = data/6jwa/6jwa_ligand.pdbqt
+ligand = data/6jwa/6jwa_protein.pdbqt
+center_x = 0.7920786026200867
+center_y = 18.1429344978166
+center_z = -1.600637554585152
+size_x = 16.778157205240174
+size_y = 23.442131004366807
+size_z = 17.837275109170303
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

@@ -1,0 +1,11 @@
+receptor = data/6qlu/6qlu_ligand.pdbqt
+ligand = data/6qlu/6qlu_protein.pdbqt
+center_x = -14.7018
+center_y = 5.6878
+center_z = -1.7622
+size_x = 22
+size_y = 22
+size_z = 22
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

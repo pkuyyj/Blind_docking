@@ -1,0 +1,11 @@
+receptor = data/6c85/6c85_ligand.pdbqt
+ligand = data/6c85/6c85_protein.pdbqt
+center_x = 44.353580645161294
+center_y = 50.89258651026396
+center_z = 462.3951085043987
+size_x = 30.51883870967741
+size_y = 17.70882697947208
+size_z = 23.821782991202557
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

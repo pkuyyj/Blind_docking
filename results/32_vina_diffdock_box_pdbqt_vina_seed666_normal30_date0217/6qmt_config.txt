@@ -1,0 +1,13 @@
+center_x = -6.656700000000001
+center_y = 4.8825
+center_z = 4.0325
+size_x = 30
+size_y = 30
+size_z = 30
+exhaustiveness = 32
+receptor = input/6qmt/6qmt_protein.pdbqt
+ligand = input/6qmt/6qmt_ligand.pdbqt
+out = results/32_vina_diffdock_box_pdbqt_vina_seed666_normal30_date0217/6qmt_ligand_out.pdbqt
+seed = 666
+num_modes = 9
+verbosity = 1

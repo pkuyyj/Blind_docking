@@ -1,0 +1,11 @@
+receptor = data/6gj7/6gj7_ligand.pdbqt
+ligand = data/6gj7/6gj7_protein.pdbqt
+center_x = 13.411100795755967
+center_y = 28.092745358090216
+center_z = -5.311488063660479
+size_x = 21.33420159151193
+size_y = 24.00949071618043
+size_z = 29.88497612732096
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

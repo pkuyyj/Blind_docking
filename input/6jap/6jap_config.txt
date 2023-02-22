@@ -1,0 +1,11 @@
+receptor = data/6jap/6jap_ligand.pdbqt
+ligand = data/6jap/6jap_protein.pdbqt
+center_x = -7.432128603104206
+center_y = -34.163560975609755
+center_z = -15.010412416851445
+size_x = 24.71425720620841
+size_y = 26.56687804878049
+size_z = 22.817175166297112
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

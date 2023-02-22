@@ -1,0 +1,11 @@
+receptor = data/6jon/6jon_ligand.pdbqt
+ligand = data/6jon/6jon_protein.pdbqt
+center_x = -9.036554655870445
+center_y = 16.081963562753035
+center_z = 0.856740890688259
+size_x = 17.528890688259107
+size_y = 27.87807287449393
+size_z = 20.35051821862348
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

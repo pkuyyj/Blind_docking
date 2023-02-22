@@ -1,0 +1,11 @@
+receptor = data/6om4/6om4_ligand.pdbqt
+ligand = data/6om4/6om4_protein.pdbqt
+center_x = -13.9971
+center_y = -2.3089
+center_z = -14.5259
+size_x = 22
+size_y = 22
+size_z = 22
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

@@ -1,0 +1,11 @@
+receptor = data/6jbe/6jbe_ligand.pdbqt
+ligand = data/6jbe/6jbe_protein.pdbqt
+center_x = -7.250869863013696
+center_y = -34.28992465753426
+center_z = -16.248890410958918
+size_x = 25.59226027397261
+size_y = 26.236150684931488
+size_z = 20.304219178082164
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

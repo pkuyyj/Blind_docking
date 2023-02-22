@@ -1,0 +1,11 @@
+receptor = data/5zjz/5zjz_ligand.pdbqt
+ligand = data/5zjz/5zjz_protein.pdbqt
+center_x = -6.3602
+center_y = -11.7157
+center_z = 8.801
+size_x = 22
+size_y = 22
+size_z = 22
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

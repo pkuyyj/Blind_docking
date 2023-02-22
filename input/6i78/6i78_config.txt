@@ -1,0 +1,11 @@
+receptor = data/6i78/6i78_ligand.pdbqt
+ligand = data/6i78/6i78_protein.pdbqt
+center_x = -17.06525423728813
+center_y = 6.071158192090392
+center_z = 2.689824858757061
+size_x = 22.992508474576265
+size_y = 14.591683615819218
+size_z = 18.62564971751412
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

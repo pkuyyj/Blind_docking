@@ -1,0 +1,11 @@
+receptor = data/6ufo/6ufo_ligand.pdbqt
+ligand = data/6ufo/6ufo_protein.pdbqt
+center_x = 4.8622
+center_y = -37.0806
+center_z = 21.1234
+size_x = 22
+size_y = 22
+size_z = 22
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

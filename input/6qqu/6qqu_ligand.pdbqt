@@ -1,0 +1,36 @@
+REMARK  Name = 6qqu_ligand
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_16
+REMARK    2  A    between atoms: N_4  and  C_5
+REMARK    3  A    between atoms: C_8  and  C_9
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1     -19.865  17.696 -12.653  0.00  0.00    +0.000 C 
+ATOM      2  C   UNL     1     -18.495  17.854 -12.862  0.00  0.00    +0.000 C 
+ATOM      3  N   UNL     1     -18.220  19.180 -12.850  0.00  0.00    +0.000 NA
+ATOM      4  N   UNL     1     -19.381  19.845 -12.621  0.00  0.00    +0.000 NA
+ATOM      5  C   UNL     1     -20.389  18.981 -12.542  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   5   8
+ATOM      6  C   UNL     1     -23.168  21.321 -11.472  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1     -25.333  21.290 -10.874  0.00  0.00    +0.000 C 
+ATOM      8  C   UNL     1     -21.792  19.467 -12.189  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1     -22.866  18.566 -11.988  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1     -24.099  19.071 -11.572  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1     -24.239  20.465 -11.311  0.00  0.00    +0.000 A 
+ATOM     12  N   UNL     1     -23.574  22.596 -11.165  0.00  0.00    +0.000 NA
+ATOM     13  C   UNL     1     -24.865  22.594 -10.806  0.00  0.00    +0.000 C 
+ATOM     14  C   UNL     1     -21.901  20.825 -11.897  0.00  0.00    +0.000 A 
+ENDBRANCH   5   8
+BRANCH   2  15
+ATOM     15  N   UNL     1     -17.543  16.791 -13.068  0.00  0.00    +0.000 N 
+ATOM     16  H   UNL     1     -17.855  15.820 -13.069  0.00  0.00    +0.000 HD
+ATOM     17  H   UNL     1     -16.557  17.010 -13.213  0.00  0.00    +0.000 HD
+ENDBRANCH   2  15
+BRANCH   1  18
+ATOM     18  C   UNL     1     -20.529  16.343 -12.632  0.00  0.00    +0.000 C 
+ATOM     19  N   UNL     1     -20.976  15.287 -12.628  0.00  0.00    +0.000 NA
+ENDBRANCH   1  18
+TORSDOF 3

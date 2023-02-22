@@ -1,0 +1,11 @@
+receptor = data/6jao/6jao_ligand.pdbqt
+ligand = data/6jao/6jao_protein.pdbqt
+center_x = -7.15023571428571
+center_y = -34.29384047619046
+center_z = -15.25841428571428
+size_x = 24.174471428571422
+size_y = 26.836319047619085
+size_z = 22.63717142857144
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

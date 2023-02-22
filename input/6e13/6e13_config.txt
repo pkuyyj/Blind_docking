@@ -1,0 +1,11 @@
+receptor = data/6e13/6e13_ligand.pdbqt
+ligand = data/6e13/6e13_protein.pdbqt
+center_x = -18.200759776536312
+center_y = -18.20076815642457
+center_z = -8.379888268198918e-06
+size_x = 28.766480446927385
+size_y = 28.766463687150868
+size_z = 19.99001675977653
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

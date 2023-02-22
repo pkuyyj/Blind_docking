@@ -1,0 +1,11 @@
+receptor = data/6jmf/6jmf_ligand.pdbqt
+ligand = data/6jmf/6jmf_protein.pdbqt
+center_x = -31.746164319248845
+center_y = 12.572046948356824
+center_z = 3.7773615023474183
+size_x = 19.840328638497688
+size_y = 16.865906103286353
+size_z = 19.20872300469484
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

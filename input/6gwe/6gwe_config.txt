@@ -1,0 +1,11 @@
+receptor = data/6gwe/6gwe_ligand.pdbqt
+ligand = data/6gwe/6gwe_protein.pdbqt
+center_x = 44.39302643171811
+center_y = 41.18616299559466
+center_z = 21.142735682819385
+size_x = 22.00205286343622
+size_y = 30.621674008810672
+size_z = 17.16547136563877
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

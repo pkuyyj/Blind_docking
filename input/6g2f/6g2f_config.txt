@@ -1,0 +1,11 @@
+receptor = data/6g2f/6g2f_ligand.pdbqt
+ligand = data/6g2f/6g2f_protein.pdbqt
+center_x = -2.183087866108788
+center_y = 9.353573221757324
+center_z = -18.54208786610879
+size_x = 34.57217573221757
+size_y = 16.90085355648535
+size_z = 15.18017573221758
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

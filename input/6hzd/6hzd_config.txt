@@ -1,0 +1,11 @@
+receptor = data/6hzd/6hzd_ligand.pdbqt
+ligand = data/6hzd/6hzd_protein.pdbqt
+center_x = 35.263215568862286
+center_y = -50.62974850299401
+center_z = 8.233377245508985
+size_x = 22.42156886227542
+size_y = 12.858502994011973
+size_z = 18.083245508982028
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

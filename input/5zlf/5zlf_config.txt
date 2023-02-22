@@ -1,0 +1,11 @@
+receptor = data/5zlf/5zlf_ligand.pdbqt
+ligand = data/5zlf/5zlf_protein.pdbqt
+center_x = 65.37023645320197
+center_y = -5.625440886699507
+center_z = 16.93104433497536
+size_x = 88.34152709359606
+size_y = 33.54488177339901
+size_z = 21.30208866995072
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

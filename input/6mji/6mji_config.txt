@@ -1,0 +1,11 @@
+receptor = data/6mji/6mji_ligand.pdbqt
+ligand = data/6mji/6mji_protein.pdbqt
+center_x = 95.50512370486672
+center_y = 229.24365588697037
+center_z = 321.2386687598115
+size_x = 113.59824740973345
+size_y = 97.8686882260593
+size_z = 45.84333751962299
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

@@ -1,0 +1,11 @@
+receptor = data/6a87/6a87_ligand.pdbqt
+ligand = data/6a87/6a87_protein.pdbqt
+center_x = -16.6426
+center_y = 28.678
+center_z = -13.7044
+size_x = 22
+size_y = 22
+size_z = 22
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

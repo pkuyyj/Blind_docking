@@ -1,0 +1,11 @@
+receptor = data/6cyh/6cyh_ligand.pdbqt
+ligand = data/6cyh/6cyh_protein.pdbqt
+center_x = 65.63
+center_y = 212.5277
+center_z = 48.5763
+size_x = 22
+size_y = 22
+size_z = 22
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

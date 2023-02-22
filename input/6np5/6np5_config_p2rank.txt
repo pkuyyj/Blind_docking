@@ -1,0 +1,11 @@
+receptor = data/6np5/6np5_ligand.pdbqt
+ligand = data/6np5/6np5_protein.pdbqt
+center_x = 110.1082
+center_y = -15.5739
+center_z = -4.6411
+size_x = 22
+size_y = 22
+size_z = 22
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10

@@ -1,0 +1,11 @@
+receptor = data/6pno/6pno_ligand.pdbqt
+ligand = data/6pno/6pno_protein.pdbqt
+center_x = 29.00516161616161
+center_y = -9.289626262626266
+center_z = 8.4960101010101
+size_x = 13.845676767676764
+size_y = 16.36325252525253
+size_z = 16.203979797979798
+energy_range = 9
+exhaustiveness = 32
+num_modes = 10
