@@ -14,4 +14,4 @@ pip install biopandas
 ```bash
 python equi_bind_diffdock_box_vina.py
 ```
-Then results including original output poses and RMSDS will be in the `results` folder.
+Then results including original output poses and RMSDs will be in the `results` folder.
